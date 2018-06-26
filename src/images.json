@@ -1,0 +1,194 @@
+{
+    "01": {
+        "link": "./src/assets/images/kitties/01",
+        "id": "image01"
+    },
+    "02": {
+        "link": "./src/assets/images/kitties/02",
+        "id": "image02"
+    },
+    "03": {
+        "link": "./src/assets/images/kitties/03",
+        "id": "image03"
+    },
+    "04": {
+        "link": "./src/assets/images/kitties/04",
+        "id": "image04"
+    },
+    "05": {
+        "link": "./src/assets/images/kitties/05",
+        "id": "image05"
+    },
+    "06": {
+        "link": "./src/assets/images/kitties/06",
+        "id": "image06"
+    },
+    "07": {
+        "link": "./src/assets/images/kitties/07",
+        "id": "image07"
+    },
+    "08": {
+        "link": "./src/assets/images/kitties/08",
+        "id": "image08"
+    },
+    "09": {
+        "link": "./src/assets/images/kitties/09",
+        "id": "image09"
+    },
+    "10": {
+        "link": "./src/assets/images/kitties/10",
+        "id": "image10"
+    },
+    "11": {
+        "link": "./src/assets/images/kitties/11",
+        "id": "image11"
+    },
+    "12": {
+        "link": "./src/assets/images/kitties/12",
+        "id": "image12"
+    },
+    "13": {
+        "link": "./src/assets/images/kitties/13",
+        "id": "image13"
+    },
+    "14": {
+        "link": "./src/assets/images/kitties/14",
+        "id": "image14"
+    },
+    "15": {
+        "link": "./src/assets/images/kitties/15",
+        "id": "image15"
+    },
+    "16": {
+        "link": "./src/assets/images/kitties/16",
+        "id": "image16"
+    },
+    "17": {
+        "link": "./src/assets/images/kitties/17",
+        "id": "image17"
+    },
+    "18": {
+        "link": "./src/assets/images/kitties/18",
+        "id": "image18"
+    },
+    "19": {
+        "link": "./src/assets/images/kitties/19",
+        "id": "image19"
+    },
+    "20": {
+        "link": "./src/assets/images/kitties/20",
+        "id": "image20"
+    },
+    "21": {
+        "link": "./src/assets/images/kitties/21",
+        "id": "image21"
+    },
+    "22": {
+        "link": "./src/assets/images/kitties/22",
+        "id": "image22"
+    },
+    "23": {
+        "link": "./src/assets/images/kitties/23",
+        "id": "image23"
+    },
+    "24": {
+        "link": "./src/assets/images/kitties/24",
+        "id": "image24"
+    },
+    "25": {
+        "link": "./src/assets/images/kitties/25",
+        "id": "image25"
+    },
+    "26": {
+        "link": "./src/assets/images/kitties/26",
+        "id": "image26"
+    },
+    "27": {
+        "link": "./src/assets/images/kitties/27",
+        "id": "image27"
+    },
+    "28": {
+        "link": "./src/assets/images/kitties/28",
+        "id": "image28"
+    },
+    "29": {
+        "link": "./src/assets/images/kitties/29",
+        "id": "image29"
+    },
+    "30": {
+        "link": "./src/assets/images/kitties/30",
+        "id": "image30"
+    },
+    "31": {
+        "link": "./src/assets/images/kitties/31",
+        "id": "image31"
+    },
+    "32": {
+        "link": "./src/assets/images/kitties/32",
+        "id": "image32"
+    },
+    "33": {
+        "link": "./src/assets/images/kitties/33",
+        "id": "image33"
+    },
+    "34": {
+        "link": "./src/assets/images/kitties/34",
+        "id": "image34"
+    },
+    "35": {
+        "link": "./src/assets/images/kitties/35",
+        "id": "image35"
+    },
+    "36": {
+        "link": "./src/assets/images/kitties/36",
+        "id": "image36"
+    },
+    "37": {
+        "link": "./src/assets/images/kitties/37",
+        "id": "image37"
+    },
+    "38": {
+        "link": "./src/assets/images/kitties/38",
+        "id": "image38"
+    },
+    "39": {
+        "link": "./src/assets/images/kitties/39",
+        "id": "image39"
+    },
+    "40": {
+        "link": "./src/assets/images/kitties/40",
+        "id": "image40"
+    },
+    "41": {
+        "link": "./src/assets/images/kitties/41",
+        "id": "image41"
+    },
+    "42": {
+        "link": "./src/assets/images/kitties/42",
+        "id": "image42"
+    },
+    "43": {
+        "link": "./src/assets/images/kitties/43",
+        "id": "image43"
+    },
+    "44": {
+        "link": "./src/assets/images/kitties/44",
+        "id": "image44"
+    },
+    "45": {
+        "link": "./src/assets/images/kitties/45",
+        "id": "image45"
+    },
+    "46": {
+        "link": "./src/assets/images/kitties/46",
+        "id": "image46"
+    },
+    "47": {
+        "link": "./src/assets/images/kitties/47",
+        "id": "image47"
+    },
+    "48": {
+        "link": "./src/assets/images/kitties/48",
+        "id": "image48"
+    }
+}

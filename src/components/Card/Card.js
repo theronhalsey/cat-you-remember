@@ -2,13 +2,14 @@ import React from "react";
 import "./Card.css";
 
 const Card = props => (
-  <div
+  <button
     className="card"
+    id={`${props.id}`}
     style={{
-      backgroundImage: `${props.image}`
+      backgroundImage: `url(${props.link})`
     }}
   >
-  </div>
+  </button>
 );
 
 export default Card;
