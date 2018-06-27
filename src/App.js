@@ -41,36 +41,21 @@ const shuffleCards = function () {
   };
 };
 
-const renderCards = function (row) {
-  row.map(image => {
-    console.log(row)
-    return (
-      <Card
-        id={image.id}
-        link={image.link}
-      />
-    )
-  })
-}
-
 shuffleCards();
-
-document.getElementsByClassName("card").onclick = function() {
-  alert("I was clicked!")
-  shuffleCards()
-}
 
 class App extends Component {
 
   state = {
-    clicked: false
+  
   }
 
   handleClick = event => {
     event.preventDefault();
+    console.log("I have been clicked")
     this.setState({
       clicked: true
-    }).then(shuffleCards())
+    }).then(
+      shuffleCards())
   }
 
   render() {
@@ -83,8 +68,10 @@ class App extends Component {
             {row1.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -93,8 +80,10 @@ class App extends Component {
             {row2.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -103,8 +92,10 @@ class App extends Component {
             {row3.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -113,8 +104,10 @@ class App extends Component {
             {row4.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -123,8 +116,10 @@ class App extends Component {
             {row5.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -133,8 +128,10 @@ class App extends Component {
             {row6.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -143,8 +140,10 @@ class App extends Component {
             {row7.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}
@@ -153,8 +152,10 @@ class App extends Component {
             {row8.map(image => {
               return (
               <Card
+              key={image.id}
               id={image.id}
               link={image.link}
+              clicked={this.clicked}
               />
               )
             })}

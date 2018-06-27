@@ -2,14 +2,16 @@ import React from "react";
 import "./Card.css";
 
 const Card = props => (
-  <button
+  <div
     className="card"
+    onClick={this.handleClick}
     id={`${props.id}`}
+    clicked="false"
     style={{
       backgroundImage: `url(${props.link})`
     }}
   >
-  </button>
+  </div>
 );
 
 export default Card;
